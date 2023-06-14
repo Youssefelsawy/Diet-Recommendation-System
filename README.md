@@ -1,4 +1,4 @@
-# Pocket-Trainer
+# Pocket-Trainer-Gym-Application
 A Diet Recommendation System using Machine Learning Algorithms. 
 To run the project prerequirements are:
 Install the following by running the command:
