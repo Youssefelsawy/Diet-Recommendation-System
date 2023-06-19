@@ -20,7 +20,7 @@ def predict():
     weight = request.form.get('weight')
     height = request.form.get('height')
     goal = request.form.get('goal')
-
+    print(age,veg_non_veg,weight,height,goal)
     if goal == 'Weight Loss':
         return calculate_weight_loss(age, veg_non_veg, weight, height)
     elif goal == 'Weight Gain':
